@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+        <Title>GoogleAPIClient</Title>
+        <Description>Google API client common processing</Description>
+        <AssemblyName>GoogleAPIClient</AssemblyName>
+        <Version>1.0.0.0</Version>
+        <Authors>GodPhwng</Authors>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageTags>google;api;</PackageTags>
+        <Copyright>Copyright (c) 2020 GodPhwng</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis" Version="1.46.0" />
+    <PackageReference Include="Google.Apis.Auth" Version="1.46.0" />
+  </ItemGroup>
+
+</Project>
