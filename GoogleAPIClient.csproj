@@ -5,12 +5,13 @@
         <Title>GoogleAPIClient</Title>
         <Description>Google API client common processing</Description>
         <AssemblyName>GoogleAPIClient</AssemblyName>
-        <Version>1.0.0.0</Version>
+        <Version>1.0.0.1</Version>
         <Authors>GodPhwng</Authors>
         <TargetFramework>netstandard2.0</TargetFramework>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <PackageTags>google;api;</PackageTags>
         <Copyright>Copyright (c) 2020 GodPhwng</Copyright>
+        <RepositoryUrl>https://github.com/GodPhwng/GoogleAPIClient</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
