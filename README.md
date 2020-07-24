@@ -2,7 +2,7 @@
 
 This software includes the work that is distributed in the Apache License 2.0
 
-## Used By
+## How to use
 
 **Example** VideosService.cs
 ```C#
